@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yaoxu Song"
+  name             : "宋曜旭 Yaoxu Song"
   avatar           : "profile.png"
-  bio              : "3rd-year B.S. in CS at ACM Class, SJTU"
+  bio              : #"3rd-year B.S. in CS at ACM Class, SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
