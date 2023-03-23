@@ -1,9 +1,9 @@
 ---
-title: "μGrapher: High-performance Graph Operator Computation via Unified Abstraction for Graph Neural Networks"
+title: "uGrapher: High-performance Graph Operator Computation via Unified Abstraction for Graph Neural Networks"
 collection: publications
 permalink: /publication/uGrapher
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 2009-10-01
+date: 2022-07-01
 venue: 'The 28th Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'23)'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
